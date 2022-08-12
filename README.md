@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Irem-Joshua
+- 👋 Hi, I’m @Irem-Joshua Ogbonnaya a graduate of Food science and technology 
 - 👀 I’m interested in ...software development, data science etc
 - 🌱 I’m currently learning enrolled into software development 
 - 💞️ I’m looking to collaborate on whoever that will help me to grow and learn 
